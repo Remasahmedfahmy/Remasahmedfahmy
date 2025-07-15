@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="stylesheet" href="/fontawesome-free-6.7.2-web/css/all.css">
+        <link rel="stylesheet" href="/fontawesome-free-6.7.2-web/fontawesome-free-6.7.2-web/css/all.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Caprasimo&display=swap" rel="stylesheet">
+        <title>Document</title>
+    </head>
+    <body>
+        <!-- the boxs in the top -->
+        <div class="main-box">
+            <div class="color-box box1"></div>
+            <div class="color-box box2"></div>
+            <div class="color-box box3"></div>
+            <div class="color-box box4"></div>
+            <div class="color-box box5"></div>
+        </div>
+        <div data-aos="fade-up" class="icons">
+            <i style="margin-left: 14%;margin-top: 268px;position: fixed;color: white;z-index: 100;" id="home" class="fa-solid fa-house"></i>
+            <i style="margin-left: 14%;margin-top: 327px;position: fixed;color: white;z-index: 100;" id="about" class="fa-solid fa-address-card"></i>
+            <i style="margin-left: 14%;margin-top: 380px;position: fixed;color: white;z-index: 100;" id="serveses" class="fa-solid fa-server"></i>
+            <i style="margin-left: 14%;margin-top: 438px;position: fixed;color: white;z-index: 100;" id="experience" class="fa-solid fa-inbox"></i>
+            <i style="margin-left: 14%;margin-top: 494px;position: fixed;color: white;z-index: 100;" id="contact" class="fa-solid fa-circle-user"></i>
+        </div>
+        <div data-aos="fade-up" class="main-contaner">
+            <h5 data-aos="fade-right" style="    margin-top: 46%;margin-left: 36%;position: fixed;color: white;letter-spacing: 2px;">This Project Made 2025 By Remas Ahmed Fahmy ♥</h5>
+            <div class="fixe">
+                <a href="https://www.facebook.com/?locale=ar_AR"><i style="color: #ffffff;background: #ffffff54;padding: 7px;position: fixed;border-radius: 10px;font-size: 21px;margin-top: 624px;z-index: 10;margin-left: 74%;" class="fa-brands fa-facebook"></i></a>
+                <i style="color: #ffffff;background: #ffffff54;padding: 7px;position: fixed;border-radius: 10px;font-size: 21px;margin-top: 624px;z-index: 10;margin-left: 77%;" class="fa-brands fa-github"></i>
+                <i style="color: #ffffff;background: #ffffff54;padding: 7px;position: fixed;border-radius: 10px;font-size: 21px;margin-top: 624px;z-index: 10;margin-left: 80%;" class="fa-brands fa-instagram"></i>
+                <i style="color: #ffffff;background: #ffffff54;padding: 7px;position: fixed;border-radius: 10px;font-size: 21px;margin-top: 624px;z-index: 10;margin-left: 83%;" class="fa-brands fa-twitter"></i>
+            </div>
+            
+            <div class="header">
+                <div class="inside">
+                    <div class="box">
+                        <img src="./IMG20250619174041 (1).jpg" alt="">
+                    </div>
+                    <h1>Remas Ahmed</h1>
+                    <p>Web Development & Design</p>
+                    <li onclick="
+                    document.querySelector('.home-box').style.display = 'inline-block'
+                    document.querySelector('.content-box').style.display = 'none'
+                    
+                    " class="home" id="homeBtn" style="cursor: pointer;">
+    <a href="#Home">Home</a>
+</li>
+<li class="about" id="aboutBtn" style="cursor: pointer;">
+    <a href="#About">About</a>
+</li>
+                    <li class="services"><a style="cursor: pointer;" href="#Services"></a>Services</li>
+                    <li class="experience"><a style="cursor: pointer;" href="#Experience"></a>Experience</li>
+                    <li class="contact"><a style="cursor: pointer;" href="#Contact"></a>Contact</li>
+                </div> 
+            </div>
+            <!-- Section Home -->
+            
+            <div style="display: none;position: fixed;margin-left: 37%;margin-top: 8%;text-align: center;background: rgba(255, 255, 255, 0.27);padding: 30px;border-radius: 25px;box-shadow: rgba(255, 255, 255, 0.31) -1px 1px 20px 2px;color: white;width: 53%;height: 61vh;" class="content-box">
+                    <h1 style="margin-top: -25px;position: absolute;margin-left: 256px;color: #ffffff6e;font-size: 41px;">Contact</h1>
+                    <h2>Contact Me</h2>
+                    <form style="margin-top: 30px;">
+                        <input type="text" placeholder="Your Name" style="width: 67%;padding: 10px;border-radius: 10px;border: none;margin-bottom: 15px;background: #f2f4f8;margin-top: 3%;">
+                        <input type="email" placeholder="Your Email" style="width: 69%;padding: 10px;border-radius: 10px;border: none;margin-bottom: 15px;background: #f2f4f8;">
+                        <textarea placeholder="Your Message" style="width: 63%;padding: 10px;border-radius: 10px;border: none;margin-bottom: 15px;background: #f2f4f8;resize: none;height: 80px;margin-left: -63%;position: absolute;margin-top: 7%;"></textarea>
+                        <button type="submit" style="    padding: 9px 30px;border-radius: 12px;border: none;background: #ffffff4d;color: #fff;font-size: 16px;cursor: pointer;margin-top: 283px;position: absolute;margin-left: -68%;">Send</button>
+                    </form>
+                    <div style="margin-top: 17%;color: white;position: absolute;margin-left: 35%;line-height: 29px;">
+                        <i class="fa-solid fa-envelope"></i> remas@email.com<br>
+                        <i class="fa-solid fa-phone"></i> 0100-000-0000
+                    </div>
+                    <button onclick="
+                    document.querySelector('.home-box').style.display = 'inline-block';
+                    document.querySelector('.content-box').style.display = 'none';
+                    document.querySelector('.circle').style.display = 'inline-block';
+                    " class="goback" id="go">
+                        <i class="fa-solid fa-arrow-left"></i> Go Back
+                    </button>
+            </div>
+
+            <section style="width: 67%;
+                height: 80vh;
+                background: #ffffff2b;
+                margin-left: 30%;
+                margin-top: 3%;
+                border-radius: 21px;"
+                id="Home" class="home-contaner">
+                <div class="home-box">
+                    <h2>Home</h2>
+                    <h1>Home</h1>
+                    <img style="width: 40%;
+                    margin-left: 60%;
+                    margin-top: 5%;
+                    border-radius: 20px;" src="./IMG20250619174041 (1).jpg" alt="">
+                    <div class="line"></div>
+                    <h2 style="margin-left: 61px;
+                    margin-top: 0%;
+                    position: absolute;
+                    color: white;
+                    letter-spacing: 2px;
+                    font-size: 20px;">To Contact Me Click Here 
+        <button 
+        onclick="
+        document.querySelector('.home-box').style.display = 'none';
+        document.querySelector('.circle').style.display = 'none'; 
+        document.querySelector('.content-box').style.display = 'inline-block'; 
+        
+        " class="active" style="    border: navajowhite;
+        background: #ffffff4d;
+        color: white;
+        padding: 20px;
+        position: fixed;
+        margin-top: -1%;
+        margin-left: 1%;
+        border-radius: 17px;
+        font-size: 17px;
+        cursor: pointer;">Contact Me</button></h2>
+                    <h3 style="    position: fixed;
+    margin-top: -23%;
+    margin-left: 7%;
+    color: white;
+    font-size: 32px;
+    width: 26%;
+    text-align: center;
+    letter-spacing: 3px;">Hi I'm Remas Ahmed And This Is My Cv</h3>
+                    <p style=" text-align: center;
+                        color: white;
+    margin-top: -13%;
+    margin-left: 3%;
+    position: fixed;
+    
+    width: 33%;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ab omnis autem natus nesciunt iste dolores corporis, suscipit est, nobis ipsum laudantium, libero ad sapiente? Consectetur excepturi dolorum illum quia rerum, beatae ratione cupiditate esse expedita officiis reprehenderit officia nulla ullam neque fugit nesciunt eos architecto soluta, laborum dicta consequuntur.</p>
+            <svg class="one" style="margin-top: 23%;margin-left: -118%;position: fixed;z-index: -24;width: 30%;height: 60vh;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  `                 <path fill="#F2F4F8" d="M32.5,-49.6C45.4,-42.2,61.6,-38.8,71.9,-29.1C82.2,-19.3,86.6,-3.1,83.2,11C79.7,25.2,68.3,37.2,55.8,44.2C43.3,51.1,29.7,53,16.8,56.4C3.9,59.8,-8.3,64.8,-22.1,65.4C-36,65.9,-51.4,61.9,-57.4,51.6C-63.4,41.3,-59.8,24.7,-62.1,8.9C-64.4,-6.9,-72.5,-21.8,-69,-32.4C-65.6,-42.9,-50.5,-49.1,-37.1,-56.3C-23.7,-63.4,-11.8,-71.6,-1,-70C9.8,-68.4,19.5,-57,32.5,-49.6Z" transform="translate(100 100)" />
+                </svg>      
+                <svg class="circle" style="margin-top: -16%;margin-left: -11%;position: fixed;z-index: -24;width: 30%;height: 60vh;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  `                 <path fill="#F2F4F8" d="M32.5,-49.6C45.4,-42.2,61.6,-38.8,71.9,-29.1C82.2,-19.3,86.6,-3.1,83.2,11C79.7,25.2,68.3,37.2,55.8,44.2C43.3,51.1,29.7,53,16.8,56.4C3.9,59.8,-8.3,64.8,-22.1,65.4C-36,65.9,-51.4,61.9,-57.4,51.6C-63.4,41.3,-59.8,24.7,-62.1,8.9C-64.4,-6.9,-72.5,-21.8,-69,-32.4C-65.6,-42.9,-50.5,-49.1,-37.1,-56.3C-23.7,-63.4,-11.8,-71.6,-1,-70C9.8,-68.4,19.5,-57,32.5,-49.6Z" transform="translate(100 100)" />
+                </svg> 
+                </div>     
+            </section>
+            
+            <!-- Section About -->
+            <section style="width: 67%;
+                height: 80vh;
+                background: #ffffff2b;
+                margin-left: 30%;
+                margin-top: 3%;
+                border-radius: 21px;
+                display: none;"
+                id="About" class="about-contaner">
+                <div class="about-box">
+                    <h1>About</h1>
+                    <h2>About Me</h2>
+                    <p>
+                       Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt tempora deleniti adipisci expedita fuga sint magnam vel impedit obcaecati dolores!
+                    </p>
+                    <div class="line"></div>
+                </div>
+            <svg style=" margin-top: 20%;margin-left: 46%;position: fixed;z-index: -24;width: 52%;height: 86vh;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                <path fill="#F2F4F8" d="M32.5,-49.6C45.4,-42.2,61.6,-38.8,71.9,-29.1C82.2,-19.3,86.6,-3.1,83.2,11C79.7,25.2,68.3,37.2,55.8,44.2C43.3,51.1,29.7,53,16.8,56.4C3.9,59.8,-8.3,64.8,-22.1,65.4C-36,65.9,-51.4,61.9,-57.4,51.6C-63.4,41.3,-59.8,24.7,-62.1,8.9C-64.4,-6.9,-72.5,-21.8,-69,-32.4C-65.6,-42.9,-50.5,-49.1,-37.1,-56.3C-23.7,-63.4,-11.8,-71.6,-1,-70C9.8,-68.4,19.5,-57,32.5,-49.6Z" transform="translate(100 100)" />
+            </svg>      
+            <svg style="margin-top: -18%;margin-left: -45%;position: fixed;z-index: -24;width: 30%;height: 60vh;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+               <path fill="#F2F4F8" d="M32.5,-49.6C45.4,-42.2,61.6,-38.8,71.9,-29.1C82.2,-19.3,86.6,-3.1,83.2,11C79.7,25.2,68.3,37.2,55.8,44.2C43.3,51.1,29.7,53,16.8,56.4C3.9,59.8,-8.3,64.8,-22.1,65.4C-36,65.9,-51.4,61.9,-57.4,51.6C-63.4,41.3,-59.8,24.7,-62.1,8.9C-64.4,-6.9,-72.5,-21.8,-69,-32.4C-65.6,-42.9,-50.5,-49.1,-37.1,-56.3C-23.7,-63.4,-11.8,-71.6,-1,-70C9.8,-68.4,19.5,-57,32.5,-49.6Z" transform="translate(100 100)" />
+            </svg>  
+            <svg style="position: fixed;width: 28%;margin-left: 42%;margin-top: -6%;rotate: 55deg;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+               <path fill="#F2F4F8" d="M32.5,-49.6C45.4,-42.2,61.6,-38.8,71.9,-29.1C82.2,-19.3,86.6,-3.1,83.2,11C79.7,25.2,68.3,37.2,55.8,44.2C43.3,51.1,29.7,53,16.8,56.4C3.9,59.8,-8.3,64.8,-22.1,65.4C-36,65.9,-51.4,61.9,-57.4,51.6C-63.4,41.3,-59.8,24.7,-62.1,8.9C-64.4,-6.9,-72.5,-21.8,-69,-32.4C-65.6,-42.9,-50.5,-49.1,-37.1,-56.3C-23.7,-63.4,-11.8,-71.6,-1,-70C9.8,-68.4,19.5,-57,32.5,-49.6Z" transform="translate(100 100)" />
+            </svg>  
+             <!-- <svg style="position: fixed;width: 28%;margin-left: 41%;margin-top: -8%;rotate: 55deg;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                    <path fill="#C3578D" d="M51,-66.3C65.6,-59.6,76.6,-44,76.6,-28.5C76.6,-13.1,65.6,2.4,60.5,20.2C55.4,38,56.2,58.2,47.1,67.5C38,76.8,19,75.2,1.8,72.8C-15.5,70.4,-31,67.2,-40.5,58C-50.1,48.8,-53.7,33.7,-58.8,18.9C-63.9,4.1,-70.5,-10.5,-66.6,-21.5C-62.8,-32.5,-48.6,-39.9,-35.8,-47.1C-22.9,-54.3,-11.5,-61.3,3.4,-65.9C18.2,-70.6,36.4,-72.9,51,-66.3Z" transform="translate(100 100)" />
+            </svg> -->
+            <div class="con">
+                <i class="fa-solid fa-phone"></i>
+                <h6 style="margin-left: 18%;margin-top: -6%;font-size: 16px;">+012 867 021 21 </h6>
+                <i style="margin-top: 20px;" class="fa-solid fa-envelope"></i>
+                <h6 style="margin-left: 50px;font-size: 13px;margin-top: -16px;">remasahmed232100@gmail.com</h6>
+                <i style="margin-top: 20px;" class="fa-brands fa-github"></i>
+                <h6 style="margin-left: 18%;margin-top: -6%;font-size: 16px;">github.com/RemasAhmed</h6>
+            </div>
+            <div class="data">
+                <h1>Html</h1>
+                <div class="prpgtas">
+                    <span style="width: 90%;" data-width="90%"><h1>90%</h1></span>
+                </div>
+                <h1>Css</h1>
+                <div class="prpgtas">
+                    <span style="width: 70%;" data-width="80%"><h1>80%</h1></span>
+                </div>
+                <h1>Js</h1>
+                <div class="prpgtas">
+                    <span style="width: 60%;" data-width="100%"><h1>100%</h1></span>
+                </div>
+                <h1>React</h1>
+                <div class="prpgtas">
+                    <span style="width: 55%;" data-width="50%"><h1>50%</h1></span>
+                </div>
+                <h1>TypeScript</h1>
+                <div class="prpgtas">
+                    <span style="width: 80%;" data-width="30%"><h1>30%</h1></span>
+                </div>
+            </div>
+            </section>
+            <!-- Section Services -->
+            <section style="width: 67%;
+                height: 80vh;
+                background: #ffffff2b;
+                margin-left: 30%;
+                margin-top: 3%;
+                border-radius: 21px;
+                display: none;"
+                id="Services" class="services-contaner">
+                <div class="about-box">
+                    <h1>Services</h1>
+                    <h2>What I Offer</h2>
+                    <div class="conte">
+                        <h3 class="a" style="font-size: 16px;width: 61%;line-height: 1.4;text-align: center;background: #ffffff2b;padding: 10px;border-radius: 13px;height: 148px;"><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, deleniti!</p>make a beautiful web design and make it faster</h3>
+                        <h3 class="b" style="position: absolute;margin-top: 3%;font-size: 16px;width: 61%;line-height: 1.4;text-align: center;background: #ffffff2b;padding: 10px;border-radius: 13px;height: 148px;"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, corrupti.</p>Frontend Development</h3>
+                        <div class="hore"></div>
+                        <h3 class="c" style="font-size: 16px;width: 61%;line-height: 1.4;text-align: center;background: #ffffff2b;padding: 10px;border-radius: 13px;height: 148px;margin-left: 85%;margin-top: -29%;"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, id!</p>design all the web that you love</h3>
+                        <h3 class="d" style="font-size: 16px;width: 62%;line-height: 1.4;text-align: center;background: #ffffff2b;padding: 10px;border-radius: 13px;height: 150px;margin-left: 85%;margin-top: 3%;"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, id!</p>(UX/UI) design and Development</h3>
+                    </div>
+                    <div class="line"></div>
+                </div>
+                <svg class="one" style="margin-top: 28%;margin-left: 57%;position: fixed;z-index: -24;width: 30%;height: 60vh;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">`<path fill="#F2F4F8" d="M32.5,-49.6C45.4,-42.2,61.6,-38.8,71.9,-29.1C82.2,-19.3,86.6,-3.1,83.2,11C79.7,25.2,68.3,37.2,55.8,44.2C43.3,51.1,29.7,53,16.8,56.4C3.9,59.8,-8.3,64.8,-22.1,65.4C-36,65.9,-51.4,61.9,-57.4,51.6C-63.4,41.3,-59.8,24.7,-62.1,8.9C-64.4,-6.9,-72.5,-21.8,-69,-32.4C-65.6,-42.9,-50.5,-49.1,-37.1,-56.3C-23.7,-63.4,-11.8,-71.6,-1,-70C9.8,-68.4,19.5,-57,32.5,-49.6Z" transform="translate(100 100)" /></svg>      
+                <svg class="circle" style="margin-top: 27%;margin-left: -51%;position: fixed;z-index: -24;width: 30%;height: 60vh;" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">`<path fill="#F2F4F8" d="M32.5,-49.6C45.4,-42.2,61.6,-38.8,71.9,-29.1C82.2,-19.3,86.6,-3.1,83.2,11C79.7,25.2,68.3,37.2,55.8,44.2C43.3,51.1,29.7,53,16.8,56.4C3.9,59.8,-8.3,64.8,-22.1,65.4C-36,65.9,-51.4,61.9,-57.4,51.6C-63.4,41.3,-59.8,24.7,-62.1,8.9C-64.4,-6.9,-72.5,-21.8,-69,-32.4C-65.6,-42.9,-50.5,-49.1,-37.1,-56.3C-23.7,-63.4,-11.8,-71.6,-1,-70C9.8,-68.4,19.5,-57,32.5,-49.6Z" transform="translate(100 100)" /></svg> 
+            </section>
+            <!-- Section Experience -->
+            <section style="width: 67%;
+                height: 80vh;
+                background: #ffffff2b;
+                margin-left: 30%;
+                margin-top: 3%;
+                border-radius: 21px;
+                display: none;"
+                id="Experience" class="experience-contaner">
+                <div class="about-box">
+                    <h1>Experience</h1>
+                    <h2>My Journey</h2>
+                    <ul style="color: #444; margin-top: 20px; font-size: 18px;">
+                        <li>2023 - الآن: مطورة ويب مستقلة (Freelancer)</li>
+                        <li>2022 - 2023: متدربة في شركة برمجيات</li>
+                        <li>2021 - 2022: مشاريع شخصية وتعلم ذاتي</li>
+                    </ul>
+                    <div class="line"></div>
+                </div>
+            </section>
+            <!-- Section Contact -->
+            <section style="width: 67%;
+                height: 80vh;
+                background: #ffffff2b;
+                margin-left: 30%;
+                margin-top: 3%;
+                border-radius: 21px;
+                display: none;"
+                id="Contact" class="contact-contaner">
+                <div class="about-box">
+                    <h1>Contact</h1>
+                    <h2>Contact Me</h2>
+                    <form style="margin-top: 30px;">
+                        <input type="text" placeholder="Your Name" style="width: 80%; padding: 10px; border-radius: 10px; border: none; margin-bottom: 15px; background: #f2f4f8;">
+                        <input type="email" placeholder="Your Email" style="width: 80%; padding: 10px; border-radius: 10px; border: none; margin-bottom: 15px; background: #f2f4f8;">
+                        <textarea placeholder="Your Message" style="width: 80%; padding: 10px; border-radius: 10px; border: none; margin-bottom: 15px; background: #f2f4f8; resize: none; height: 80px;"></textarea>
+                        <button type="submit" style="padding: 12px 30px; border-radius: 12px; border: none; background: #7b6ada; color: #fff; font-size: 18px; cursor: pointer;">Send</button>
+                    </form>
+                    <div class="line"></div>
+                    <div style="margin-top: 20px; color: #444;">
+                        <i class="fa-solid fa-envelope"></i> remas@email.com<br>
+                        <i class="fa-solid fa-phone"></i> 0100-000-0000
+                    </div>
+                </div>
+            </section>
+        </div>
+        <script>
+    const homeContaner = document.querySelector('.home-contaner');
+    const aboutContaner = document.querySelector('.about-contaner');
+    const servicesContaner = document.querySelector('.services-contaner');
+    const experienceContaner = document.querySelector('.experience-contaner');
+    const contactContaner = document.querySelector('.contact-contaner');
+
+    homeContaner.style.transition = 'opacity 0.5s';
+    aboutContaner.style.transition = 'opacity 0.5s';
+    servicesContaner.style.transition = 'opacity 0.5s';
+    experienceContaner.style.transition = 'opacity 0.5s';
+    contactContaner.style.transition = 'opacity 0.5s';
+
+    function hideAll() {
+        homeContaner.style.opacity = '0';
+        aboutContaner.style.opacity = '0';
+        servicesContaner.style.opacity = '0';
+        experienceContaner.style.opacity = '0';
+        contactContaner.style.opacity = '0';
+        setTimeout(() => {
+            homeContaner.style.display = 'none';
+            aboutContaner.style.display = 'none';
+            servicesContaner.style.display = 'none';
+            experienceContaner.style.display = 'none';
+            contactContaner.style.display = 'none';
+        }, 500);
+    }
+
+    document.getElementById('aboutBtn').onclick = function(e) {
+        e.preventDefault();
+        hideAll();
+        setTimeout(() => {
+            aboutContaner.style.display = 'block';
+            setTimeout(() => {
+                aboutContaner.style.opacity = '1';
+            }, 10);
+        }, 500);
+    };
+
+    document.getElementById('homeBtn').onclick = function(e) {
+        e.preventDefault();
+        hideAll();
+        setTimeout(() => {
+            homeContaner.style.display = 'block';
+            setTimeout(() => {
+                homeContaner.style.opacity = '1';
+            }, 10);
+        }, 500);
+    };
+
+    document.querySelector('.services').onclick = function(e) {
+        e.preventDefault();
+        hideAll();
+        setTimeout(() => {
+            servicesContaner.style.display = 'block';
+            setTimeout(() => {
+                servicesContaner.style.opacity = '1';
+            }, 10);
+        }, 500);
+    };
+
+    document.querySelector('.experience').onclick = function(e) {
+        e.preventDefault();
+        hideAll();
+        setTimeout(() => {
+            experienceContaner.style.display = 'block';
+            setTimeout(() => {
+                experienceContaner.style.opacity = '1';
+            }, 10);
+        }, 500);
+    };
+
+    document.querySelector('.contact').onclick = function(e) {
+        e.preventDefault();
+        hideAll();
+        setTimeout(() => {
+            contactContaner.style.display = 'block';
+            setTimeout(() => {
+                contactContaner.style.opacity = '1';
+            }, 10);
+        }, 500);
+    };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+    <script src="./main.js"></script>
+    </body>
+</html>

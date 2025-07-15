@@ -34,7 +34,32 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/prof<img width="1913" height="876" alt="page 1" src="https://github.com/user-attachments/assets/fc978d11-4cc0-4920-bceb-c92b40f4fb83" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ile-readme-generator/master/src/assets/icons/social/youtube/default.<img width="1920" height="880" alt="page 2" src="https://github.com/user-attachments/assets/b3a22fe3-f668-4b2c-b34c-9d0452985f66" />
+svg" width="55" height="35" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />

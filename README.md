@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,50:FF4ECD,100:00E5FF&text=REMAS%20OS&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,50:FF4ECD,100:00E5FF&text=REMAS%20AHMED FAHMY&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&pause=1200&color=FF4ECD&center=true&vCenter=true&width=800&lines=BOOTING+SYSTEM...;Flutter+Developer;Building+Things+That+Matter;Welcome+to+REMAS+OS"/>
 

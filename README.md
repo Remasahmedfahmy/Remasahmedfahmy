@@ -5,7 +5,8 @@
 ✨ Crafting elegant **UI/UX** and powerful apps with code & creativity.  
 
 ---
-![remasahmedfahmy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=remasahmedfahmy&theme=dracula&hide_border=true)![remasahmedfahmy's Stats](https://github-readme-stats.vercel.app/api?username=remasahmedfahmy&theme=dracula&show_icons=true&hide_border=true&count_private=true)![remasahmedfahmy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=remasahmedfahmy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![remasahmedfahmy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=remasahmedfahmy&theme=dracula&hide_border=true)![remasahmedfahmy's Stats](https://github-readme-stats.vercel.app/api?username=remasahmedfahmy&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![remasahmedfahmy's Stats](https://github-readme-stats.vercel.app/api?username=remasahmedfahmy&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 ## 📌 About Me
 - 🎨 Passionate about blending **design & code** to build beautiful user experiences.  
 - 💻 Experienced in **HTML, CSS, JavaScript, Flutter**  

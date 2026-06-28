@@ -1,15 +1,8 @@
-> whoami
-Remas Fahmy
+INITIALIZING...
+□□□□□□□□□□ 0%
 
-> role
-Flutter Developer
+■■□□□□□□□□ 20%
 
-> philosophy
-Build less.
-Build better.
+■■■■■□□□□□ 50%
 
-> stack
-Flutter • Dart • Firebase • Git
-
-> current_status
-shipping cool apps...
+SYSTEM ONLINE

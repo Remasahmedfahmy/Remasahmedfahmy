@@ -5,7 +5,7 @@
 ✨ Crafting elegant **UI/UX** and powerful apps with code & creativity.  
 
 ---
-
+![remasahmedfahmy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=remasahmedfahmy&theme=dracula&hide_border=true)
 ## 📌 About Me
 - 🎨 Passionate about blending **design & code** to build beautiful user experiences.  
 - 💻 Experienced in **HTML, CSS, JavaScript, Flutter**  

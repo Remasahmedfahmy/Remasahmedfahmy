@@ -4,46 +4,57 @@
 🌸 Web & App Developer | Flutter & Front-End Specialist  
 ✨ Crafting elegant **UI/UX** and powerful apps with code & creativity.  
 
----
-![remasahmedfahmy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=remasahmedfahmy&theme=dracula&hide_border=true)![remasahmedfahmy's Stats](https://github-readme-stats.vercel.app/api?username=remasahmedfahmy&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-You are an expert GitHub profile analyst and digital branding strategist. Your task is to conduct a comprehensive, professional analysis of the GitHub profile for `remasahmedfahmy`, focusing on visual metrics, technical credibility, and personal branding effectiveness. 
+<h1 data-importer="text" align="center">Hey ♥♫ <br>Mein Name ist Remas Ahmed<br>und ich bin eine Frontend-Developer</h1>
 
-Examine the provided GitHub Readme Stats badge (generated via https://github-readme-stats.vercel.app) with the following parameters: username `remasahmedfahmy`, theme `prussian`, icons enabled, border visible, and private repositories counted. Analyze the data visualization in detail — including total repositories, public and private contributions, programming language distribution, most active days, and overall activity streaks.
+###
 
-Deliver a structured report that evaluates:
-- The visual appeal and professionalism of the stats badge using the prussian theme.
-- The strategic implications of displaying private repository counts — what does this reveal about the user’s transparency and project scope?
-- How the inclusion of icons enhances or detracts from the clarity and impact of the metrics.
-- The potential perception of the user by recruiters, collaborators, or open-source communities based on these statistics.
-- Recommendations to optimize the profile further, such as adding badges for contributions, skill matrices, or a custom README with a personal mission statement and project highlights.
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-Ensure the tone is professional, insightful, and actionable, suitable for a developer aiming to strengthen their online technical identity. Provide specific, evidence-based suggestions grounded in best practices of modern GitHub profile curation.
-## 📌 About Me
-- 🎨 Passionate about blending **design & code** to build beautiful user experiences.  
-- 💻 Experienced in **HTML, CSS, JavaScript, Flutter**  
-- 🌱 Currently learning **React & Node.js**  
-- 🚀 Love exploring new technologies and turning ideas into reality.  
+###
 
----
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## 🔧 Skills
-- **Front-End:** HTML, CSS, JavaScript, Flutter  
-- **Other:** Git, GitHub  
+###
 
----
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/remasahmedfahmy/remasahmedfahmy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/remasahmedfahmy/remasahmedfahmy/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/remasahmedfahmy/remasahmedfahmy/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-## 🖼️ Projects Showcase
-Here are some of my works 👇  
+###
 
-➡️ Check more on my [Repositories](https://github.com/Remasahmedfahmy?tab=repositories)  
+<br clear="both">
 
----
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=remasahmedfahmy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/remasahmedfahmy/remasahmedfahmy/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🌍 Connect With Me
-- 📧 [Email Me](remasahmed232100@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/remas-ahmed-410735339/)  
-- 🌐 [Portfolio Website](https://remasahmedfahmy.github.io/Profile-Cv/)
----
-
-## ⚡ Fun Fact
-When I'm not coding, I enjoy exploring design trends & sipping on bubble tea 🧋
+###

@@ -1,134 +1,109 @@
 <div align="center">
 
-# 💻 REMAS OS
+# 👋 Hi, I'm Remas Fahmy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Booting+Remas+OS...;Loading+Flutter+SDK...;Loading+Creativity...;Welcome+Developer+💜" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Software+Engineer;Building+Beautiful+Apps;Always+Learning+New+Things;Welcome+to+my+Profile+💜" />
+
+<img src="https://komarev.com/ghpvc/?username=Remasahmedfahmy&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-```text
-██████████████████████████████████
+# 💜 About Me
 
-System Status
+```dart
+class Remas {
+  final String role = "Flutter Developer";
+  final String location = "Egypt 🇪🇬";
 
-🟢 Flutter ............ Ready
+  List<String> skills = [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "REST APIs",
+    "State Management",
+    "Git & GitHub",
+    "UI/UX"
+  ];
 
-🟢 Firebase ........... Ready
-
-🟢 UI Design .......... Ready
-
-🟢 Coffee ............. 100%
-
-🟢 Creativity ......... Infinite
-
-██████████████████████████████████
+  String currentFocus =
+      "Building clean, scalable and beautiful mobile apps.";
+}
 ```
 
 ---
 
-# 🖥 Desktop
-
-| Icon | Description |
-|------|-------------|
-| 👩‍💻 | About Me |
-| 💻 | Projects |
-| 📱 | Flutter Apps |
-| 🚀 | Skills |
-| 🏆 | Certificates |
-| 📫 | Contact |
-
----
-
-# 👋 About Me
-
-```bash
-> whoami
-
-Remas Ahmed
-
-Flutter Developer 💙
-
-Frontend Developer
-
-Building beautiful mobile apps.
-
-Always learning something new.
-```
-
----
-
-# ⚙️ Installed Technologies
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,git,github,vscode,figma,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,postman,cpp,java&perline=6"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Status
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Remasahmedfahmy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Remasahmedfahmy&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 📈 Most Used Languages
 
-🛒 E-Commerce App
+<p align="center">
 
-🎬 Movie App
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remasahmedfahmy&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🌦 Weather App
-
-📱 Notes App
+</p>
 
 ---
 
-# ☕
+# 🌟 What I Love
 
-```text
-Coffee Meter
+✨ Building Flutter Apps
 
-██████████████████ 100%
+🎨 Designing Clean UI
 
-Powered by coffee & curiosity ☕
-```
+🔥 Firebase Integration
+
+📱 Mobile Development
+
+🚀 Learning New Technologies
 
 ---
 
-# 🔒 Hidden Folder
+# 🤝 Connect With Me
 
-<details>
+<p align="center">
 
-<summary>📁 Open Secret Folder</summary>
+<a href="https://github.com/Remasahmedfahmy">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-```text
-Congratulations!
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-You found the hidden folder.
+<a href="mailto:your@email.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
 
-Achievement Unlocked:
-
-🏆 Explorer
-
-Thanks for visiting my profile 💜
-```
-
-</details>
+</p>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### 💜 Thanks for visiting my profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 
 </div>

@@ -7,8 +7,6 @@
 </div>
 <div align="center">
 
-# ✨ Remas Fahmy
-
 ### Flutter Developer • Problem Solver • UI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Building+ideas+into+experiences.;Clean+Code+.+Beautiful+UI.;Always+learning+something+new."/>
